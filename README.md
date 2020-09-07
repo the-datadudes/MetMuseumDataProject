@@ -15,4 +15,5 @@ It has the following columns:
     medium - the medium of the art piece
     country - the country of the artist
 
-This data was kindly made publicly available under their Open Access Policy, which can be viewed directly at: https://www.metmuseum.org/about-the-met/policies-and-documents/image-resources.
+This data was kindly made publicly available under their Open Access Policy, which can be viewed directly at: 
+https://www.metmuseum.org/about-the-met/policies-and-documents/image-resources.
